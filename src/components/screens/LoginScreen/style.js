@@ -31,7 +31,6 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     googleText:{
-        fontFamily: 'Product Sans Regular',
         color: 'black',
         fontSize: 18,
         fontWeight: '400'
